@@ -4,13 +4,13 @@
 
 
 
-##### 🖥️ About Me
+#### 🖥️ About Me
 
 Hi! I’m Muhammad Shafique, a passionate **Full-Stack Developer** who loves building modern, scalable, and user-friendly web applications. I'm always exploring new technologies and contributing to projects that make an impact.
 
 
 
-##### 🌍 Connect With Me
+#### 🌍 Connect With Me
 
 <p align="">
   <a href="https://www.linkedin.com/in/muhammad-shafique-dev/" target="_blank">
@@ -22,7 +22,7 @@ Hi! I’m Muhammad Shafique, a passionate **Full-Stack Developer** who loves bui
 </p>
 
 
-##### 🎓 Education
+#### 🎓 Education
 
 - **Bachelor of Technology (B.Tech) in Computer Science**  
   *Sukkur Institute of Business and Administration*  
