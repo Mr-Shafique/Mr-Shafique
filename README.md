@@ -26,7 +26,7 @@ Hi! I’m Muhammad Shafique, a passionate **Full-Stack Developer** who loves bui
 ## 🎓 Education
 
 - **Bachelor of Technology (B.Tech) in Computer Science**  
-  *Sukkur Institute of Business and administration*  
+  *Sukkur Institute of Business administration*  
   *Graduated: 2024*
 
 ---
